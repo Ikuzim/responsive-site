@@ -1,6 +1,5 @@
 @charset 'UTF-8';
 @import url(https://fonts.googleapis.com/css?family=Abel);
-@import "compass";
 @media (max-width:768px){
 html
 {
